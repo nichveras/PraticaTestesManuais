@@ -21,18 +21,18 @@
 
 ## 🔍 **Cobertura por Módulo**
 
-| Código RF | Módulo                   | Casos Testados | Casos Passaram | Bugs encontrados | Bug(s) Associado(s)       |
+| Código RF | Módulo                   | Casos Testados | Casos Passaram | Bugs encontrados | Bug(s) Associado(s)     |
 | --------- | ------------------------ | -------------- | -------------- | -------------- | ------------------------- |
 | RF01      | Login                    | 3              | 3              | 2              | BUG-001, BUG-002, BUG-003 |
 | RF02      | Dashboard                | 3              | 3              | 0              | -                         |
 | RF03      | PIM - Funcionários       | 3              | 2              | 1              | BUG-005                   |
 | RF04      | Férias (Leave)           | 3              | 2              | 1              | BUG-004                   |
-| RF05      | Recrutamento             | 3              | 2              | 1              -                    
+| RF05      | Recrutamento             | 3              | 3              | 0              | -                         |
 | RF06      | Administração (Admin)    | 3              | 3              | 0              | -                         |
 | RF07      | Controle de Ponto (Time) | 3              | 3              | 0              | -                         |
 | RF08      | Relatórios               | 3              | N/A            | 0              | -                         |
 | RF09      | Diretório                | 3              | 3              | 0              | -                         |
-| RF10      | Manutenção               | 3              | 2              | 1              | (Mesmo que BUG-005)       |
+| RF10      | Manutenção               | 3              | 3              | 0              | -                         |
 
 ---
 
@@ -40,11 +40,11 @@
 
 | ID      | Título                                                                         | Severidade | Status |
 | ------- | ------------------------------------------------------------------------------ | ---------- | ------ |
-| BUG-001 | Ícone de visualizar senha desaparece ao clicar fora do campo                   | Média      | Aberto |
+| BUG-001 | Ícone de visualizar não existe em Login                                        | Média      | Aberto |
 | BUG-002 | Página de login atualiza ao ocorrer erro de autenticação                       | Baixa      | Aberto |
 | BUG-003 | Não há mensagem clara de sucesso ou falha no login                             | Média      | Aberto |
 | BUG-004 | Não é possível aplicar licença de férias - "No Leave Types with Leave Balance" | Alta       | Aberto |
-| BUG-005 | Ícone de “ver senha” desaparece no formulário de criação de funcionário        | Média      | Aberto |
+| BUG-005 | Ícone de “ver senha” não existe no formulário de criação de funcionário        | Média      | Aberto |
 
 ---
 
