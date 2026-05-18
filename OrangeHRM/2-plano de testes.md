@@ -42,8 +42,8 @@ Realizar a verificação manual dos principais requisitos funcionais do sistema 
 
 * Navegador Google Chrome / Firefox
 * Ferramentas de inspeção do navegador (DevTools)
-* Google Sheets ou Excel (registro de casos e evidências)
-* Captura de tela (Snipping Tool ou Lightshot)
+* Google Sheets, Excel ou Sistema próprio de gerenciamento de testes (registro de casos e evidências)
+* Captura de tela (Jam.dev)
 
 ---
 
@@ -77,11 +77,11 @@ Realizar a verificação manual dos principais requisitos funcionais do sistema 
 
 | Atividade                   | Data Início | Data Fim   |
 | --------------------------- | ----------- | ---------- |
-| Planejamento de Testes      | 17/05/2025  | 17/05/2025 |
-| Criação de Casos de Teste   | 17/05/2025  | 17/05/2025 |
-| Execução dos Testes Manuais | 17/05/2025  | 17/05/2025 |
-| Registro e Report de Bugs   | 17/05/2025  | 17/05/2025 |
-| Encerramento e Evidências   | 17/05/2025  | 17/05/2025 |
+| Planejamento de Testes      | 17/05/2026  | 17/05/2026 |
+| Criação de Casos de Teste   | 17/05/2026  | 17/05/2026 |
+| Execução dos Testes Manuais | 17/05/2026  | 17/05/2026 |
+| Registro e Report de Bugs   | 17/05/2026  | 17/05/2026 |
+| Encerramento e Evidências   | 17/05/2026  | 17/05/2026 |
 
 ---
 
