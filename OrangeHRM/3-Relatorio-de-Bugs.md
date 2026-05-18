@@ -8,7 +8,7 @@
 
 ---
 
-### 🐞 **Bug 01: Ícone de visualizar senha desaparece ao clicar fora do campo**
+### 🐞 **Bug 01: Ícone de visualizar senha não existe**
 
 | **ID**     | **Descrição**                                                                                                                                             |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -25,7 +25,7 @@
 
 |                        **Comportamento Esperado**                       |                        **Comportamento Obtido**                        |
 | :---------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-| O ícone de "ver senha" deve continuar ser visível. | impede o usuário de visualizar a senha e verificar se está correta. |
+| O ícone de "ver senha" deve ser visível. | impede o usuário de visualizar a senha e verificar se está correta. |
 
 | **Ambiente**             |
 | ------------------------ |
@@ -151,7 +151,7 @@
 | [Vídeo](https://jam.dev/c/d4802406-7a6f-4031-a63a-457c6dddfcf4) |
 
 ---
-#### Bug 05: Ícone de “ver senha” desaparece ao sair do campo no formulário de criação de funcionário
+#### Bug 05: Ícone de “ver senha” não existe no formulário de criação de funcionário
 
 | **ID**     | **Descrição**                                                                                                                                                  |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -171,7 +171,7 @@
 
 |                      **Comportamento Esperado**                      |                         **Comportamento Obtido**                          |
 | :------------------------------------------------------------------: | :------------------------------------------------------------------------: |
-| O ícone de "ver senha" deve permanecer visível e funcional, impedindo visualização |
+| O ícone de "ver senha" deve ser visível e funcional, impedindo visualização |
 
 | **Ambiente**             |
 | ------------------------ |
